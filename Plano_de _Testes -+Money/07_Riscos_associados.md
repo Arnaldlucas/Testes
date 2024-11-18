@@ -1,6 +1,6 @@
 # Riscos Associados aos Testes
 
-Durante a execução dos testes nos cenários descritos, alguns riscos podem afetar o desempenho e a eficácia dos testes. Abaixo estão os principais riscos identificados:
+Nos cenários descritos, alguns riscos podem afetar o desempenho e a eficácia dos testes. Abaixo estão os principais riscos identificados:
 
 1. **Falhas de Integração**  
    Risco de falhas na **integração entre sistemas**, como banco de dados, interfaces de usuário e APIs, que podem resultar em erros de comunicação e dados incorretos.
