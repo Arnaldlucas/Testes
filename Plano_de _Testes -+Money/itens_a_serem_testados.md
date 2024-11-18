@@ -1,4 +1,4 @@
-# Itens Testados
+# Itens a serem testados
 
 Os itens testados nos 10 casos de teste, com base nos cenários apresentados, são:
 
