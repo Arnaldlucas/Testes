@@ -2,7 +2,7 @@
 
 ### Como foi desenvolvido
 
-Para cada caso de teste, as classes de equivalência foram criadas com base nas condições de entrada específicas do cenário testado. Essas condições foram divididas entre **válidas** e **inválidas**, com o objetivo de cobrir todos os comportamentos esperados, garantindo assim que tanto os caminhos positivos quanto os negativos fossem testados. 
+Para cada caso de teste, as classes de equivalência foram criadas com base nas condições de entrada específicas do cenário testado. Essas condições foram divididas entre **válidas** e **inválidas**, com o objetivo de cobrir todos os comportamentos esperados, garantindo assim que tanto os caminhos positivos quanto os negativos fossem testados. os casos de testes podem ser encontrados no link a seguir: 
 
 ### Padrão utilizado
 
