@@ -1,6 +1,6 @@
 # Itens a serem testados
 
-Os itens testados nos 10 casos de teste, com base nos cenários apresentados, são:
+Os itens a serem testados nos 10 casos de teste, com base nos cenários apresentados, são:
 
 1. **Cadastro de Despesa Financeira**  
    Testou a funcionalidade de **registro de despesas** no sistema, verificando se os dados são corretamente salvos e visíveis no gráfico de despesas.
